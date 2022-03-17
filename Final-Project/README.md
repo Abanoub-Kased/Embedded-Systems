@@ -1,5 +1,4 @@
-# Final Project
-# serial communication I2C (TWI)
+# Final Project (I2C with EEPROM and RTC)
 # Component:
 - Atmega 16a
 - EEPROM
@@ -11,5 +10,6 @@
 - The logged key is saved in the EEPROM AT24C08 with it’s date and time 
 - Key ‘15’ prints to the screen the latest pressed keys and it’s date and time
 - Key ‘16’ erases the external EEPROM with a message on LCD “Clearing Mem…”
+
 ![Getting Started](project.PNG) 
 
