@@ -1,4 +1,4 @@
-# Embedded-Systems-Tasks
+# Embedded-Systems
 - Using AVR (Atmega 16a)
 - Communication protocols (USART, SPI, I2C) 
 - Using Timer, ADC and interrupts 
